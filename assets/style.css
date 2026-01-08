@@ -99,14 +99,14 @@ nav .menu a{
 }
 
 #banner .banner-content h2{
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     color:#474747;
     margin-bottom: 5px;
 }
 
 #banner .banner-content h1{
-    font-size: 85px;
+    font-size: 80px;
     font-weight: bold;
     color:#181818;
     margin-bottom: 20px;
@@ -143,13 +143,13 @@ nav .menu a{
 }
 
 .about-info .info-card p{
-    font-size: 20px;
+    font-size: 18px;
     line-height: 30px;
     color: #757575;
 }
 
 .about-info .info-card h4{
-    font-size: 20px;
+    font-size: 17px;
 }
 
 #skills .skills-container{
